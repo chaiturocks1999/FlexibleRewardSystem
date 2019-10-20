@@ -3,8 +3,7 @@ Flexible reward engine that can be used by Card Provider to set up any new rewar
 
 # Hardware and Software Requirements 
 * Processor – Intel Core 2 duo/i3/i5/i7 - 64 bit processors are recommended. The project has been developed in intel i7-64 bit.
-* Operating System – Windows 10: 64-bit , For the purpose of this project we have used Windows 10.
-* Programming Languages : 
+* Operating System – Windows 10: 64-bit , For the purpose of this project we have used Windows 10. 
 * For the backend operations PHP 7 has been used along with MySQL connectivity via XAMPP.
 * For the frontend Bootstrap 4 has been used
 * For databases, I had used MySQL.
